@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Counseling Studio & Security Defense Lab",
+  "description": "Sleek university-grade AI career counselor, advanced prompt engineering studio, offline ChromaDB RAG architecture, and live SQLi/IDOR cybersecurity defense lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
